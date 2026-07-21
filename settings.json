@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "DeathofServer.aternos.me",
-    "port": 14718,
+    "port": "14718",
     "version": "1.21.1",
     "try-creative": false
   },
