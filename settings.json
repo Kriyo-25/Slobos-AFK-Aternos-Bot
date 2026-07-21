@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DeathofServer.aternos.me",
-    "port": "14718",
-    "version": "1.26.1.2",
+    "ip": "Kriyori.aternos.me",
+    "port": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
